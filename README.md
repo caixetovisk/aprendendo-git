@@ -2,4 +2,4 @@
 
 ## super dicas do GIT
 
-O gIT é uma cara bem legal
+O Git é uma cara bem legal
