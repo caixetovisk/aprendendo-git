@@ -1,4 +1,4 @@
-# Aprendendo GIT versao 2
+# Aprendendo GIT versão 3
 
 ## Comandos básicos do git
 
